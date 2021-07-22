@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 9" width="16" height="9">
+	<title>Header</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Header">
+		<g id="order info">
+			<g id="Details">
+				<path id="fa-angle-down" class="shp0" d="M15.84 0.92L15.04 0.15C14.94 0.05 14.81 0 14.67 0C14.53 0 14.41 0.05 14.3 0.15L8 6.23L1.7 0.15C1.59 0.05 1.47 0 1.33 0C1.19 0 1.06 0.05 0.96 0.15L0.16 0.92C0.05 1.03 0 1.15 0 1.28C0 1.41 0.05 1.53 0.16 1.64L7.63 8.85C7.74 8.95 7.86 9 8 9C8.14 9 8.26 8.95 8.37 8.85L15.84 1.64C15.95 1.53 16 1.41 16 1.28C16 1.15 15.95 1.03 15.84 0.92L15.84 0.92Z" />
+			</g>
+		</g>
+	</g>
+</svg>

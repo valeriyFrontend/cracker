@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 30" width="16" height="30">
+	<title>Footer</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f3f3f3 } 
+	</style>
+	<g id="Footer">
+		<g id="sharing">
+			<g id="fb">
+				<path id="fa-facebook" class="shp0" d="M11.78 0.01C9.65 0.01 7.94 0.63 6.65 1.86C5.37 3.09 4.73 4.82 4.73 7.06L4.73 10.98L0.01 10.98L0.01 16.32L4.73 16.32L4.73 29.99L10.39 29.99L10.39 16.32L15.1 16.32L15.82 10.98L10.39 10.98L10.39 7.58C10.39 6.71 10.58 6.06 10.95 5.63C11.32 5.2 12.04 4.98 13.1 4.98L16 4.98L16 0.23C15 0.08 13.6 0.01 11.78 0.01L11.78 0.01Z" />
+			</g>
+		</g>
+	</g>
+</svg>
