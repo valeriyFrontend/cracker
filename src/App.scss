@@ -52,6 +52,20 @@ button {
     gap: 10px;
     cursor: pointer;
   }
+  &__menu-amount {
+    position: relative;
+  }
+  &__amount {
+    border-radius: 100%;
+    width: 15px;
+    height: 15px;
+    background: rgb(255, 0, 0);
+    font-size: 14px;
+    text-align: center;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+  }
   &__nav {
     background: rgba(0, 0, 0, 0.387);
   }
