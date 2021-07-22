@@ -60,7 +60,7 @@ function App({ fullSize, changeFullValue }) {
   const addToCart = () => {
     setIsShowNavbar(false);
     cartItems.push(rangeListValues);
-    setCartItems(cartItems);
+    setCartItems([...cartItems]);
   };
 
   const deleteItem = (index) => {
@@ -76,7 +76,10 @@ function App({ fullSize, changeFullValue }) {
             Cracker<span className="header__logo-sub">logo</span>
           </div>
           <div className="header__menu-inner">
-            <img src={semen} alt="Semen" />
+            <div className="header__menu-amount">
+              <img src={semen} alt="Semen" />
+              <span className="header__amount">{cartItems.length}</span>
+            </div>
             <span>Total: 143 E</span>
             <div className="header__menu-cart">
               <span
