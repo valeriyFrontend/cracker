@@ -17,7 +17,7 @@ function Range({
     if (noResize) {
       setRange(0);
     }
-  }, [fullSize]);
+  }, [fullSize, noResize]);
 
   const changeValue = async (e) => {
     const targetElement = e.target;
